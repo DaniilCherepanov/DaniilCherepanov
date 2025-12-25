@@ -1,6 +1,13 @@
-## Hi there 👋
+<Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Даниил =============================================================================================================================== Я начинающий AQA Тестировщик ---------------------------- Освоил профессию ручного тестирования и мне стало интересно это автоматизировать * 🌍 Я живу в Томск * ✉ You Вы можете связаться со мной по адресу [Cherepanovda337@gmail.com](mailto:Cherepanovda337@gmail.com)
 
-<!--
+<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><изображение src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg " alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><изображение src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg " alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><изображение src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg " alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><изображение src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg " alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a> </p>
+<li style="отображение: встроенный блок; правое поле: 0,25rem;"><a href="https://www.buymeacoffee.com/Даниил"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png " width="150"/></a></li>
+
+<ul style="стиль-тип списка: отсутствует; поле: 0;">
+
+### Поддержите меня
+
+</ul>!--
 **DaniilCherepanov/DaniilCherepanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

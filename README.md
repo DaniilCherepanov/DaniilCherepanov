@@ -131,7 +131,7 @@
 ## 📫 Контакты
 
 Telegram: *будет добавлено*  
-Email: *будет добавлено*
+Email: cherepanovda337@gmail.com
 
 
 
@@ -205,32 +205,5 @@ Email: *будет добавлено*
 
 **[Профиль на LinkedIn](https://www.linkedin.com/in/%D0%B2%D1%8C%D1%8E%D0%B3%D0%B0%D1%80-%D0%BA%D0%B5%D1%80%D0%B8%D0%BC%D0%BE%D0%B2-13b9b6277?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdSpdwZWZT8OqHsF62fTh6Q%3D%3D)**
 
-**Контакты**:
 
-* [Telegram](https://t.me/Vyugar2021)
-
-* Vyugar@yandex.ru
-
-QA / Test Automation Engineer
-
-🧪 Tech stack:
-- Java / Python / JS
-- Playwright / Selenium / Cypress
-- REST API testing
-- Git, CI/CD
-
-📌 My projects:
-- 🔹 Project 1 — кратко что делает
-- 🔹 Test Automation Framework — что и зачем
-
-📫 Contacts:
-- Телеграмм 
-- Email cherepanovda337@gmail.com
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-### 🧪 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
 

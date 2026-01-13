@@ -15,4 +15,5 @@ QA / Test Automation Engineer
 📫 Contacts:
 - LinkedIn
 - Email
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+

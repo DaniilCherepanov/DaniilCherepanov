@@ -13,8 +13,9 @@ QA / Test Automation Engineer
 - 🔹 Test Automation Framework — что и зачем
 
 📫 Contacts:
-- LinkedIn
-- Email
+- Телеграмм 
+- Email cherepanovda337@gmail.com
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 ### 🧪 Tech Stack
 

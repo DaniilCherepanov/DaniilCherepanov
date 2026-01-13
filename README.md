@@ -11,11 +11,6 @@
 
 За счёт технического прошлого обладаю дисциплиной, ответственностью и умением доводить задачу до результата — качественно и в срок.
 
-# 👋 Привет, я Daniil
-
-**Junior QA Engineer | Manual & Automation (Python, PyTest, Selenium)**
-
-Я начинающий QA-инженер с практическим опытом в ручном тестировании и большим интересом к автоматизации тестирования. Сфокусирован на повышении качества продукта, поиске дефектов на ранних этапах и построении надежных процессов тестирования.
 
 ---
 
@@ -23,7 +18,6 @@
 
 ### Языки программирования
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### Тестирование
 ![Manual Testing](https://img.shields.io/badge/Manual_Testing-5A5A5A?style=for-the-badge)

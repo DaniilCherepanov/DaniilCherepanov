@@ -12,6 +12,134 @@
 За счёт технического прошлого обладаю дисциплиной, ответственностью и умением доводить задачу до результата — качественно и в срок.
 
 **Hard skills**:
+# 👋 Hi, I'm Daniil
+
+**Junior QA Engineer | Manual & Automation (Python, PyTest, Selenium)**
+
+I am a motivated Junior QA Engineer with hands-on experience in manual testing and a strong interest in test automation. I focus on improving product quality, detecting defects early, and building reliable test processes.
+
+---
+
+## 🧪 Tech Stack
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+### Testing
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-5A5A5A?style=for-the-badge)
+![Test Design](https://img.shields.io/badge/Test_Design-4B8BBE?style=for-the-badge)
+![Test Analysis](https://img.shields.io/badge/Test_Analysis-6A5ACD?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API_Testing-FF6F00?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Web
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP/HTTPS-005571?style=for-the-badge)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+
+### Methodologies
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-2496ED?style=for-the-badge)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+## 💼 Experience
+
+**QA Engineer (Manual Testing)**  
+*Online Educational Platform*
+
+- Performed functional and regression testing of a new feature in the teacher's schedule module
+- Created and maintained test cases and checklists in Sitechco
+- Conducted API testing using Postman
+- Reported and tracked bugs in Jira
+- Collaborated with developers to verify fixes and improvements
+
+---
+
+## 🧠 Types of Testing
+
+- Functional testing  
+- Non-functional testing  
+- Smoke testing  
+- Regression testing  
+- Re-testing  
+- Integration testing  
+- UI/UX testing  
+- Exploratory testing  
+- Cross-browser & cross-platform testing  
+- Module testing  
+
+---
+
+## 📝 Test Documentation
+
+- Test Cases  
+- Bug Reports  
+
+### Tools:
+- Jira  
+- Confluence  
+- Qase.io  
+- Sitechco  
+- Miro  
+
+---
+
+## 🌐 API & Web Testing
+
+- HTTP / HTTPS  
+- REST API  
+- SOAP  
+- JSON / XML  
+- Chrome DevTools  
+- Postman  
+- Swagger  
+- curl  
+
+---
+
+## 📱 Mobile Testing
+
+- Android Studio  
+
+---
+
+## 🏆 Achievements
+
+- Reduced the number of bugs by **25%** through improved test coverage  
+- Optimized test cases, decreasing regression testing time  
+
+---
+
+## 📂 Projects
+
+Here you will find my projects related to:
+
+- Test Automation with Python (PyTest, Selenium)
+- API Testing
+- QA frameworks and utilities
+
+*(Projects will be added and updated regularly)*
+
+---
+
+## 📫 Contacts
+
+Telegram: *to be added*  
+Email: *to be added*
+
 
 *Знание*:
 * основ программирования (C#, Python); <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
@@ -19,7 +147,7 @@
 * гибких методологий (Scrum, Agile, Kanban);
 * теории тестирования;
 * принципов и основ разработки ПО;
-* БД (MySQL);
+* БД (PostgreSQL);
 * SQL на уровне простых запросов;
 * техник тест дизайна и тест-аналитики;
 * клиент-серверной архитектуры;
@@ -32,10 +160,6 @@
 * REST API через Postman;
 * формата передачи данных JSON/XML;
 * основ HTML и CSS;
-* основ PHP;
-* основ JavaScript;
-* Linux (понимание принципов работы ОС, работа с командной строкой, знание bash).
-
 *Умение*:
 * анализировать функциональные требования к разрабатываемым проектам;
 * проводить ручное тестирование разрабатываемых проектов, в т.ч. через эмуляторы (browserstack);

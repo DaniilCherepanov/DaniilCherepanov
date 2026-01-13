@@ -11,22 +11,21 @@
 
 За счёт технического прошлого обладаю дисциплиной, ответственностью и умением доводить задачу до результата — качественно и в срок.
 
-**Hard skills**:
-# 👋 Hi, I'm Daniil
+# 👋 Привет, я Daniil
 
 **Junior QA Engineer | Manual & Automation (Python, PyTest, Selenium)**
 
-I am a motivated Junior QA Engineer with hands-on experience in manual testing and a strong interest in test automation. I focus on improving product quality, detecting defects early, and building reliable test processes.
+Я начинающий QA-инженер с практическим опытом в ручном тестировании и большим интересом к автоматизации тестирования. Сфокусирован на повышении качества продукта, поиске дефектов на ранних этапах и построении надежных процессов тестирования.
 
 ---
 
 ## 🧪 Tech Stack
 
-### Programming Languages
+### Языки программирования
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-### Testing
+### Тестирование
 ![Manual Testing](https://img.shields.io/badge/Manual_Testing-5A5A5A?style=for-the-badge)
 ![Test Design](https://img.shields.io/badge/Test_Design-4B8BBE?style=for-the-badge)
 ![Test Analysis](https://img.shields.io/badge/Test_Analysis-6A5ACD?style=for-the-badge)
@@ -38,16 +37,16 @@ I am a motivated Junior QA Engineer with hands-on experience in manual testing a
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTTP](https://img.shields.io/badge/HTTP/HTTPS-005571?style=for-the-badge)
 
-### Databases
+### Базы данных
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 
-### Methodologies
+### Методологии
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
 ![Agile](https://img.shields.io/badge/Agile-2496ED?style=for-the-badge)
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge)
 
-### Tools
+### Инструменты
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -55,40 +54,40 @@ I am a motivated Junior QA Engineer with hands-on experience in manual testing a
 
 ---
 
-## 💼 Experience
+## 💼 Опыт
 
 **QA Engineer (Manual Testing)**  
-*Online Educational Platform*
+*Онлайн образовательная платформа*
 
-- Performed functional and regression testing of a new feature in the teacher's schedule module
-- Created and maintained test cases and checklists in Sitechco
-- Conducted API testing using Postman
-- Reported and tracked bugs in Jira
-- Collaborated with developers to verify fixes and improvements
+- Проводил функциональное и регрессионное тестирование нового элемента в модуле расписания кабинета учителя
+- Разрабатывал и поддерживал тест-кейсы и чек-листы в Sitechco
+- Проводил тестирование API с помощью Postman
+- Заводил и отслеживал баги в Jira
+- Взаимодействовал с разработчиками для проверки исправлений и улучшений
 
 ---
 
-## 🧠 Types of Testing
+## 🧠 Виды тестирования
 
-- Functional testing  
-- Non-functional testing  
-- Smoke testing  
-- Regression testing  
+- Функциональное тестирование  
+- Нефункциональное тестирование  
+- Smoke-тестирование  
+- Регрессионное тестирование  
 - Re-testing  
-- Integration testing  
-- UI/UX testing  
-- Exploratory testing  
-- Cross-browser & cross-platform testing  
-- Module testing  
+- Интеграционное тестирование  
+- UI / UX тестирование  
+- Исследовательское тестирование  
+- Кроссбраузерное и кроссплатформенное тестирование  
+- Модульное тестирование  
 
 ---
 
-## 📝 Test Documentation
+## 📝 Тестовая документация
 
-- Test Cases  
-- Bug Reports  
+- Test Case  
+- Bug Report  
 
-### Tools:
+### Инструменты:
 - Jira  
 - Confluence  
 - Qase.io  
@@ -97,7 +96,7 @@ I am a motivated Junior QA Engineer with hands-on experience in manual testing a
 
 ---
 
-## 🌐 API & Web Testing
+## 🌐 API и Web тестирование
 
 - HTTP / HTTPS  
 - REST API  
@@ -110,35 +109,36 @@ I am a motivated Junior QA Engineer with hands-on experience in manual testing a
 
 ---
 
-## 📱 Mobile Testing
+## 📱 Мобильное тестирование
 
 - Android Studio  
 
 ---
 
-## 🏆 Achievements
+## 🏆 Достижения
 
-- Reduced the number of bugs by **25%** through improved test coverage  
-- Optimized test cases, decreasing regression testing time  
-
----
-
-## 📂 Projects
-
-Here you will find my projects related to:
-
-- Test Automation with Python (PyTest, Selenium)
-- API Testing
-- QA frameworks and utilities
-
-*(Projects will be added and updated regularly)*
+- Сократил количество багов на **25%** за счет улучшения покрытия тестами  
+- Оптимизировал тест-кейсы, сократив время регрессионного тестирования  
 
 ---
 
-## 📫 Contacts
+## 📂 Проекты
 
-Telegram: *to be added*  
-Email: *to be added*
+Здесь вы найдете мои проекты, связанные с:
+
+- Автоматизацией тестирования на Python (PyTest, Selenium)
+- Тестированием API
+- QA-фреймворками и утилитами
+
+*(Проекты будут регулярно добавляться и обновляться)*
+
+---
+
+## 📫 Контакты
+
+Telegram: *будет добавлено*  
+Email: *будет добавлено*
+
 
 
 *Знание*:

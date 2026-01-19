@@ -138,5 +138,5 @@
 
 ## 📫 Контакты
 
-Telegram: *будет добавлено*  
+Telegram: @DaniilChere
 Email: cherepanovda337@gmail.com
